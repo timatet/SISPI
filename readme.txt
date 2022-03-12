@@ -7,8 +7,14 @@
 	https://www.cnews.ru/articles/2019-10-15_6g_mozhet_perebit_appetit_k_5g
 	
 	стр. 75
-	D:/Загрзуки/osnovy-radioelektron.pdf
+	osnovy-radioelektron.pdf
 
 	http://jre.cplire.ru/jre/aug01/9/text.html
 	
 	Крухмалев. стр 330 и 390 примерно
+	
+Управление .git:
+	0. Принять изменения 	"git pull"
+	1. Добавить файлы 		"git add ."
+	2. Создать коммит		"git commit -am "[name]""
+	3. Отправить 			"git push"
