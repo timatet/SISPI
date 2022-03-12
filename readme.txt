@@ -10,3 +10,5 @@
 	D:/Загрзуки/osnovy-radioelektron.pdf
 
 	http://jre.cplire.ru/jre/aug01/9/text.html
+	
+	Крухмалев. стр 330 и 390 примерно
