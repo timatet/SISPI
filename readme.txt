@@ -32,7 +32,7 @@
 	https://setinoid.ru/types/troposfernaya-svyaz
 	
 Управление .git:
-	0. Принять изменения 	"git pull"
+	0. Принять изменения 		"git pull"
 	1. Добавить файлы 		"git add ."
 	2. Создать коммит		"git commit -am "[name]""
 	3. Отправить 			"git push"
